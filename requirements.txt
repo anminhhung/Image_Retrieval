@@ -1,0 +1,6 @@
+certifi==2021.5.30
+chardet==4.0.0
+idna==3.2
+requests==2.26.0
+selenium==3.141.0
+webdriver-manager==3.4.2
